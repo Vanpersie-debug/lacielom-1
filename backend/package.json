@@ -1,6 +1,7 @@
 {
-  "name": "backend",
+  "name": "lacaselo-backend",
   "version": "1.0.0",
+  "description": "Backend API for Lacaselo Management System",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
